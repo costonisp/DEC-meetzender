@@ -12,9 +12,7 @@ Arie PA3A: software ontwerp
 Costo: software, documentatie
 
 Blokschema:
-<p><img src="https://github.com/costonisp/Meetzender/blob/master/images/AttenuatorTN.jpg"></a>
-
-<img src="https://github.com/costonisp/Meetzender/blob/master/images/AttenuatorPowerTN.jpg"></a></p> 
+<p><img src="https://github.com/costonisp/Meetzender/blob/master/images/AttenuatorTN.jpg"></a><img src="https://github.com/costonisp/Meetzender/blob/master/images/AttenuatorPowerTN.jpg"></a></p> 
 
 ---------------------
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/pcb_layout.jpg"><img src="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/pcb-thumbnail.jpeg" alt="K5BCQ - PCB" style="max-width:100%;"></a></p>   
