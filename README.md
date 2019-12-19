@@ -1,5 +1,4 @@
-
-<p><img src="https://github.com/costonisp/DEC-Meetzender-test/pictures/crew.jpg"></a></p> 
+<p><img src="https://github.com/costonisp/DEC-meetzender-test/pictures/crew.jpg"></a></p> 
 DEC signaal generator met Si5351, en 150dB verzwakker
 Meetzender ontworpen op, door en voor DEC Dordrecht.
 
