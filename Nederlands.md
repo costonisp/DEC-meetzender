@@ -11,8 +11,10 @@ Arie PA3A: software ontwerp
 
 Costo: software, documentatie
 
-Blokschema:
-<p><img src="https://github.com/costonisp/Meetzender/blob/master/images/AttenuatorTN.jpg"></a><img src="https://github.com/costonisp/Meetzender/blob/master/images/AttenuatorPowerTN.jpg"></a></p> 
+schema verzwakker, 31.5dB verzwakking, 5 stuks in serie op verzwakkerprint.
+<p><img src="https://github.com/costonisp/Meetzender/blob/master/images/AttenuatorTN.jpg"></a></p>
+schema power supply verzwakker:
+<p><img src="https://github.com/costonisp/Meetzender/blob/master/images/AttenuatorPowerTN.jpg"></a></p> 
 
 ---------------------
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/pcb_layout.jpg"><img src="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/pcb-thumbnail.jpeg" alt="K5BCQ - PCB" style="max-width:100%;"></a></p>   
