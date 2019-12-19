@@ -16,3 +16,8 @@ Blokschema:
 
 Verzwakker:
 <p><img src="https://github.com/costonisp/Meetzender/blob/master/images/ver.jpg"></a></p> 
+
+---------------------
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/pcb_layout.jpg"><img src="https://github.com/costonisp/CW-keyer-K3NG-K5BCQ/blob/master/images/pcb-thumbnail.jpeg" alt="K5BCQ - PCB" style="max-width:100%;"></a></p>   
+<p></p> 
+-------------------------------
