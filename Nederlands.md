@@ -11,3 +11,5 @@ Arie PA3A: software ontwerp
 
 Costo: software, documentatie
 
+Blokschema:
+<p><img src="https://github.com/costonisp/Meetzender/blob/master/images/3Dprototype.jpg"></a></p> 
