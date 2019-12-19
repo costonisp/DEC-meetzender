@@ -12,7 +12,7 @@ Arie PA3A: software ontwerp
 Costo: software, documentatie
 
 Blokschema:
-<p><img src="https://github.com/costonisp/Meetzender/blob/master/images/AttenuatorTN.jpg.jpg"></a>
+<p><img src="https://github.com/costonisp/Meetzender/blob/master/images/attenuatorTN.jpg.jpg"></a>
 
 <img src="https://github.com/costonisp/Meetzender/blob/master/images/attenuatorPSTN.jpg"></a></p> 
 
