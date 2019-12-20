@@ -1,4 +1,4 @@
-<a href="https://www.pi4dec.nl/zelfbouw-meetzender/">DEC signaal generator met Si5351, en 150dB verzwakker
+<a href="https://www.pi4dec.nl/zelfbouw-meetzender/">DEC signaal generator met Si5351, en 150dB verzwakker.<p>
 Meetzender ontworpen op, door en voor <b>DEC Dordrecht</b></a>.
 <p>
 Meeste aktieve bijdragen zijn geleverd door:
