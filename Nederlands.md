@@ -1,9 +1,7 @@
 <a href="https://www.pi4dec.nl/zelfbouw-meetzender/">DEC meetzender met Si5351, en 150dB verzwakker, ontworpen door en voor <b>DEC Dordrecht</b></a>.
 <hr>
 Meeste aktieve bijdragen zijn geleverd door:
-<p>
-<p>
-<p>
+
 
 <b>Arnold PB0AIC:</b>  alle ontwerpen en printontwerpen voor: verzwakker, besturing en oscillator-I2C interface
 
@@ -11,7 +9,7 @@ Meeste aktieve bijdragen zijn geleverd door:
 
 <b>Arie PA3A:</b> software ontwerp.
 
-<b>Costo:</b> software, documentatie.
+<b>Costo:</b> software, co-ontwerp besturingsprint, documentatie.
 <hr>
 Schema's :
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/Meetzender/blob/master/images/Besturingsprint.jpg"><img src="https://github.com/costonisp/Meetzender/blob/master/images/BesturingsprintTN.jpg" ></a>
