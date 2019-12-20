@@ -13,14 +13,14 @@ Costo: software, documentatie
 
 ---------------------------------------------------------------------------------------------------------------
 Schema's :
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/Meetzender/blob/master/images/Besturingsprint.jpg" style="max-width:80%;"><img src="https://github.com/costonisp/Meetzender/blob/master/images/BesturingsprintTN.jpg" ></a>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/Meetzender/blob/master/images/Besturingsprint.jpg"><img src="https://github.com/costonisp/Meetzender/blob/master/images/BesturingsprintTN.jpg" ></a>
 Besturingsprint, Drukknoppen, Leds, Rotary Schakelaars</p>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/Meetzender/blob/master/images/Display-ArduinoMega.jpg"><img src="https://github.com/costonisp/Meetzender/blob/master/images/Display-ArduinoMegaTN.jpg" style="max-width:80%;"></a>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/Meetzender/blob/master/images/Display-ArduinoMega.jpg"><img src="https://github.com/costonisp/Meetzender/blob/master/images/Display-ArduinoMegaTN.jpg"></a>
 ArduinoMega shield, LCD 2004 
   
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/Meetzender/blob/master/images/Attenuator.jpg"><img src="https://github.com/costonisp/Meetzender/blob/master/images/AttenuatorTN.jpg" style="max-width:100%;"></a>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/Meetzender/blob/master/images/Attenuator.jpg"><img src="https://github.com/costonisp/Meetzender/blob/master/images/AttenuatorTN.jpg"></a>
 Verzwakker, 31.5dB verzwakking, 5 stuks in serie op verzwakkerprint.</p>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/Meetzender/blob/master/images/AttenuatorPower.jpg"><img src="https://github.com/costonisp/Meetzender/blob/master/images/AttenuatorPowerTN.jpg" style="max-width:100%;"></a>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/Meetzender/blob/master/images/AttenuatorPower.jpg"><img src="https://github.com/costonisp/Meetzender/blob/master/images/AttenuatorPowerTN.jpg"></a>
 Power supply op verzwakker print</p> 
