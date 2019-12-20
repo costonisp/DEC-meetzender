@@ -13,7 +13,7 @@ Costo: software, documentatie
 
 ---------------------------------------------------------------------------------------------------------------
 Schema's :
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/Meetzender/blob/master/images/Besturingsprint.jpg"><img src="https://github.com/costonisp/Meetzender/blob/master/images/BesturingsprintTN.jpg" style="max-width:80%;"></a>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/Meetzender/blob/master/images/Besturingsprint.jpg" style="max-width:80%;"><img src="https://github.com/costonisp/Meetzender/blob/master/images/BesturingsprintTN.jpg" ></a>
 Besturingsprint, Drukknoppen, Leds, Rotary Schakelaars</p>
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/Meetzender/blob/master/images/Display-ArduinoMega.jpg"><img src="https://github.com/costonisp/Meetzender/blob/master/images/Display-ArduinoMegaTN.jpg" style="max-width:80%;"></a>
