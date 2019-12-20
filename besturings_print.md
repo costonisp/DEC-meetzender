@@ -4,4 +4,4 @@ Schema's:
 Besturingsprint, Drukknoppen, Leds, Rotary Schakelaars</p>
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/Meetzender/blob/master/images/Display-ArduinoMega.jpg"><img src="https://github.com/costonisp/Meetzender/blob/master/images/Display-ArduinoMegaTN.jpg"></a>
-ArduinoMega shield, LCD 2004 
+ArduinoMega shield, LCD 2004 </p>
