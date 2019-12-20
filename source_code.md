@@ -13,5 +13,8 @@
     Via menu kan een correctiefactor worden ingevoerd waarmee de afwijking van het 
     referentie Xtal op de oscillator module kan worden gecorrigeerd.
     Instelbaar Hamband menu, keuze van voorgeprogrammeerde frekwenties/golflengtes.
-    Instelbare harmonische factor die de maximale aangegeven frekwentie bepaalt.</p>
+    Instelbare harmonische factor die de maximale aangegeven frekwentie bepaalt.
+    Voor het geval dat 0dBm uitgangsvermogen te laag is kan via een menu tijdelijk 
+    het uitgangsvermogen verhoogd worden tot ca +12 dBm. (Drive 2, 4, 6 of 8 mA)
+</p>
 <hr>
