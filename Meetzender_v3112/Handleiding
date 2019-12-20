@@ -17,7 +17,7 @@ Gebruiksaanwijzing voor de meetzender software V.3012
 *
 *           Drukknoppen:
 *   S4      S5      S6      S7 
-* Store    Get   HamBand  Config
+* Store    Get    HamBand  Config
 * waarde  waarde   Menu    Menu
 *
 **********************************
@@ -38,9 +38,11 @@ S4 Store waarde, slaat level en Frekwentie op in EEprom
 S5 Get waarde, haal opgeslagen Level en Frekwentie uit EEprom
 
 S6 HamBand Menu, Met S3 draaiknop kies je een HamBand
+   Opnieuw S6 drukken om de band/frekwentie te bevestigen
 
 S7 Dubbele functie, kort drukken kom je in het configuratie menu
-   Lang drukken (>3 seconden) een soft reset indien nodig.
+   Opnieuw S7 drukken om terug te keren.
+   Lang drukken S7 (>3 seconden) geeft een soft reset, indien nodig.
 
 
 Configuratie Menu, met S3 draaiknop de optie kiezen
