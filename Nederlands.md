@@ -14,9 +14,10 @@ Costo: software, documentatie
 ---------------------------------------------------------------------------------------------------------------
 Schema's :
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/Meetzender/blob/master/images/Besturingsprint.jpg"><img src="https://github.com/costonisp/Meetzender/blob/master/images/BesturingsprintTN.jpg" style="max-width:80%;"></a>
-Besturingsprint, ArduinoMega2560, LCD 2004 , Schakelaars</p>
+Besturingsprint, Drukknoppen, Leds, Rotary Schakelaars</p>
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/Meetzender/blob/master/images/Display-ArduinoMega.jpg"><img src="https://github.com/costonisp/Meetzender/blob/master/images/Display-ArduinoMegaTN.jpg" style="max-width:80%;"></a>
+ArduinoMega shield, LCD 2004 
   
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/Meetzender/blob/master/images/Attenuator.jpg"><img src="https://github.com/costonisp/Meetzender/blob/master/images/AttenuatorTN.jpg" style="max-width:100%;"></a>
 Verzwakker, 31.5dB verzwakking, 5 stuks in serie op verzwakkerprint.</p>
