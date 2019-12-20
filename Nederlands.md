@@ -3,9 +3,9 @@ Meetzender ontworpen op, door en voor DEC Dordrecht.
 
 Meeste aktieve bijdragen zijn geleverd door:
 
-Arnold PB0AIC:  printontwerp , verzwakker
+Arnold PB0AIC:  alle ontwerpen en printontwerpen voor: verzwakker, besturing en oscillator-I2C interface
 
-Mart PH0MH: behuizing, draaibankwerkzaamheden
+Mart PH0MH: behuizing, draaibankwerkzaamheden van de oscillator behuizing en de afscherming voor de verzwakker.
 
 Arie PA3A: software ontwerp
 
