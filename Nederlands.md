@@ -16,5 +16,5 @@ Schema's :
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/Meetzender/blob/master/images/Attenuator.jpg"><img src="https://github.com/costonisp/Meetzender/blob/master/images/AttenuatorTN.jpg" style="max-width:100%;"></a>
 schema verzwakker, 31.5dB verzwakking, 5 stuks in serie op verzwakkerprint.</p>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/Meetzender/blob/master/images/AttenuatorPower.jpg"><img src="https://github.com/costonisp/Meetzender/blob/master/images/AttenuatorPowerTN.jpg style="max-width:100%;""></a>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/Meetzender/blob/master/images/AttenuatorPower.jpg"><img src="https://github.com/costonisp/Meetzender/blob/master/images/AttenuatorPowerTN.jpg" style="max-width:100%;"></a>
 schema power supply verzwakker</p> 
