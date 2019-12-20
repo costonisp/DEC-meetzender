@@ -1,15 +1,10 @@
 /*
 Deze versie is de originele versie van Arie PA3A
-werkt met de laatste etherkit library
+Deze versie is slechts voor documentatie want hij werkt niet met de huidige hardware.
+Meetzender_0_85_CLK1_dec is wel bruikbaar op de huidige versie v/d besturingsprint.
 
-De LCD display is aangesloten op pennen 50,51 en 52
-LiquidCrystal lcd(52, 50, 39,38,37,36)
-
-In de definitieve versie van de Besturingsprint is de LCD aangesloten op pennen 44,45 en 46
-LiquidCrystal lcd(46,44,39,38,37,36);
-Daarom is deze versie niet meer bruikbaar op de hardware. 
-Meetzender_0_85_CLK1_dec welke wel bruikbaar is op de tweede versie v/d besturingsprint
-
+De LCD display is aangesloten op pennen 50,51 en 52 {LiquidCrystal lcd(52, 50, 39,38,37,36)}
+De SPI bus (pins 50,51,52 en 53) is daardoor niet beschikbaar.
 */
 
 // ------------------------------------------------------------------------------------------------------------
