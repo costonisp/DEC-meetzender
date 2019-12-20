@@ -8,5 +8,5 @@ Dit board is d.m.v. een "Bidirectionele Dual I2C Isolator" gekoppeld met de best
 <p><img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockATN.jpg"><img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockBTN.jpg">
 
 De oscillator zelf zit in een massieve messing behuizing welke op de verzwakker print wordt geschroefd.
-Op die manier kan het signaal niet via een van de I2C of via de voeding leidingen naar buiten lekken.
+Op die manier kan het signaal niet via de I2C-bus of via de voeding leiding naar buiten lekken.
 Alleen op die manier is het mogelijk om het signaal tot -145dBm te verzwakken
