@@ -16,5 +16,5 @@
 
 <p><a href="https://github.com/costonisp/Meetzender/blob/master/besturings_print.md"><b>Besturings print</b></a></p>
 <p><a href="https://github.com/costonisp/Meetzender/blob/master/verzwakker_print.md"><b>Verzwakker print</b></a></p>
-<p><a href="https://github.com/costonisp/Meetzender/blob/master/Si5351%2Binterface.md"><b>Si5351+interface</b></a></p>
+<p><a href="https://github.com/costonisp/Meetzender/blob/master/Si5351%2Binterface.md"><b>Si5351 oscillator + I2C isolator</b></a></p>
 <p><a href="https://github.com/costonisp/Meetzender/blob/master/source_code.md"><b>Source Code</b></a></p>
