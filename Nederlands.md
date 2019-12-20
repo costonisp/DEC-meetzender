@@ -13,11 +13,11 @@ Costo: software, documentatie
 ---------------------------------------------------------------------------------------------------------------
 Schema's :
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/Meetzender/blob/master/images/Besturingsprint.jpg"><img src="https://github.com/costonisp/Meetzender/blob/master/images/BesturingsprintTN.jpg" style="max-width:100%;"></a>
-schema besturingsprint, ArduinoMega2560, LCD 2004 , Schakelaars</p>
+Besturingsprint, ArduinoMega2560, LCD 2004 , Schakelaars</p>
 
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/Meetzender/blob/master/images/Attenuator.jpg"><img src="https://github.com/costonisp/Meetzender/blob/master/images/AttenuatorTN.jpg" style="max-width:100%;"></a>
-schema verzwakker, 31.5dB verzwakking, 5 stuks in serie op verzwakkerprint.</p>
+Verzwakker, 31.5dB verzwakking, 5 stuks in serie op verzwakkerprint.</p>
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/Meetzender/blob/master/images/AttenuatorPower.jpg"><img src="https://github.com/costonisp/Meetzender/blob/master/images/AttenuatorPowerTN.jpg" style="max-width:100%;"></a>
-schema power supply verzwakker</p> 
+Power supply op verzwakker print</p> 
