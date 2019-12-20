@@ -16,6 +16,10 @@
 
 <b>Costo:</b> software, co-ontwerp besturingsprint, documentatie.
 <hr>
+
+<a href="https://github.com/costonisp/Meetzender/blob/master/besturings_print"><b>Besturings print</b></a>.
+<a href="https://github.com/costonisp/Meetzender/blob/master/verzwakker_print"><b>Verzwakker print</b></a>.
+
 Schema's :
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/Meetzender/blob/master/images/Besturingsprint.jpg"><img src="https://github.com/costonisp/Meetzender/blob/master/images/BesturingsprintTN.jpg" ></a>
 Besturingsprint, Drukknoppen, Leds, Rotary Schakelaars</p>
