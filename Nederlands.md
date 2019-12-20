@@ -10,12 +10,14 @@ Mart PH0MH: behuizing, draaibankwerkzaamheden
 Arie PA3A: software ontwerp
 
 Costo: software, documentatie
+
 ---------------------------------------------------------------------------------------------------------------
 Schema's :
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/Meetzender/blob/master/images/Besturingsprint.jpg"><img src="https://github.com/costonisp/Meetzender/blob/master/images/BesturingsprintTN.jpg" style="max-width:100%;"></a>
 Besturingsprint, ArduinoMega2560, LCD 2004 , Schakelaars</p>
 
-
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/Meetzender/blob/master/images/Display-ArduinoMega2560.jpg"><img src="https://github.com/costonisp/Meetzender/blob/master/images/Display-ArduinoMega2560TN.jpg" style="max-width:100%;"></a>
+  
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/costonisp/Meetzender/blob/master/images/Attenuator.jpg"><img src="https://github.com/costonisp/Meetzender/blob/master/images/AttenuatorTN.jpg" style="max-width:100%;"></a>
 Verzwakker, 31.5dB verzwakking, 5 stuks in serie op verzwakkerprint.</p>
 
