@@ -1,4 +1,4 @@
-<p><a href="https://github.com/costonisp/Meetzender/blob/master/source_code.md"><b>Source Code Folder</b></a></p>
+<p><a href="https://github.com/costonisp/Meetzender/blob/master/SourceCode"><b>Source Code Folder</b></a></p>
 <hr>
 <b>Versie 3112 :</b></b>
     <p>Deze versie ondersteund diverse menu's, waardoor een verhoogd gebruiksgemak.
