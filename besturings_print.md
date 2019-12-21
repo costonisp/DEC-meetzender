@@ -1,10 +1,9 @@
 
 Schema's:
 
-<p><a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega1.pdf"><img src= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega1TN.jpg"></a> <a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega2.pdf"><img src= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega2TN.jpg" ></a>
-</p>
-<p><p>
-<p>links: ArduinoMega + Display |  Rechts: Drukknoppen + Rotary schakelaars</p>
+<a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega1.pdf"><img src= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega1TN.jpg"></a> | <a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega2.pdf"><img src= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega2TN.jpg" ></a>
+------------------------------------------------------ | --------------------------------------------------
+links: ArduinoMega + Display |  Rechts: Drukknoppen + Rotary schakelaars
 <hr>
 De Besturingsprint is een 4-laags PCB. 
 De signaal verbindingen liggen opgesloten tussen een massa vlak en een Vcc vlak, zodat stoorstraling geminimaliseerd wordt.
