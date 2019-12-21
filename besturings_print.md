@@ -7,6 +7,8 @@ ArduinoMega2560 + Display + I2C bus connector |  | Drukknoppen + Rotary schakela
 <p>
 De Besturingsprint is een 4-laags PCB. 
 De signaal verbindingen liggen opgesloten tussen een massa vlak en een Vcc vlak, zodat stoorstraling geminimaliseerd wordt.
+  
+<a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoBoard.pdf"><img src= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMegaBoardTN.jpg"></a>
 <p>
   
 **Headers** 6x voor een full-size Arduino Mega 2560
