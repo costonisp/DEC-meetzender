@@ -12,8 +12,8 @@ De signaal verbindingen liggen opgesloten tussen een massa vlak en een Vcc vlak,
 **Connectors :**
 <ul>
   <li> SV1 : I2C 6-poligeconnector </li>
-  <li> SV2 :  </li>
-  <li> SV3 : </li>
-  <li> SV4 : SPI 10-polige connector </li>
+  <li> SV2 : SPI 10-polige connector </li>
+  <li> SV3 : stuursignaal verzwakker print </li>
+  <li> SV4 : stuursignaal verzwakker print </li>
 </ul>
 <img src="https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/Dot.jpg">
