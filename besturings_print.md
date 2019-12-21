@@ -9,7 +9,7 @@ De signaal verbindingen liggen opgesloten tussen een massa vlak en een Vcc vlak,
   
 <a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoBoard.pdf">           <img src="https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoBrdTN.jpg"></a> |**-** | <a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduino.jpg">           <img src="https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoTN.jpg"></a>
 --------------------------------------------- | --- | ---------------------------------------------------
-  **PCB layout** *( inner layers )* | |   **complete besturingsprint**<p>
+  **PCB layout** *( inner layers )* | |   **volledige besturingsprint**<p>
   
 **Headers :** voor een full-size Arduino Mega 2560
 
