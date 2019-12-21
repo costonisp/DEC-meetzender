@@ -9,7 +9,7 @@ Besturingsprint, Drukknoppen, Leds, Rotary Schakelaars, overige connectors</p>
 De Besturingsprint is een 4-laags PCB. 
 De signaal verbindingen liggen opgesloten tussen een massa vlak en een Vcc vlak, zodat stoorstraling geminimaliseerd wordt.
 
-** Connectors: **
+**Connectors :**
 <ul>
   <li> SV1 : I2C 6-poligeconnector </li>
   <li> SV2 :  </li>
