@@ -7,7 +7,7 @@ AdaFruit Si5351 board | - | schema Si5351 board
 <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/I2CisolatorTN.jpg"> | - | - </p>
 Bidirectionele Dual I2C isolator | . | schema Bidirectionele Dual I2C isolator
  | | 
-<p><img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockATN.jpg"> | . | <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockBTN.jpg">
+<img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockATN.jpg"> | . | <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockBTN.jpg">
 
 De oscillator zelf zit in een massieve messing behuizing welke op de verzwakker print wordt geschroefd.
 Daardoor kan het signaal niet via de I2C-bus of via de voeding leiding naar buiten lekken.
