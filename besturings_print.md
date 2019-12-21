@@ -6,7 +6,7 @@ Schema's:
 <align="left">
 <p></p>
 <p><align="left">links: ArduinoMega + Display <align="right"> Rechts: Drukknoppen + Rotary schakelaars</p>
-
+<hr>
 De Besturingsprint is een 4-laags PCB. 
 De signaal verbindingen liggen opgesloten tussen een massa vlak en een Vcc vlak, zodat stoorstraling geminimaliseerd wordt.
 
