@@ -1,7 +1,9 @@
 
- <b><p align="center">
+ <b>
+ <p align="center">
  ## BESTURINGS PRINT :
-</p></b>
+</p>
+</b>
 
 <a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega1.pdf"><img src= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega1TN.jpg"></a> | **+** | <a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega2.pdf"><img src= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega2TN.jpg" ></a>
 --------------------------------------------- | --- |  --------------------------------------------
