@@ -9,9 +9,9 @@ Besturingsprint, Drukknoppen, Leds, Rotary Schakelaars, overige connectors</p>
 De Besturingsprint is een 4-laags PCB. 
 De signaal verbindingen liggen opgesloten tussen een massa vlak en een Vcc vlak, zodat stoorstraling geminimaliseerd wordt.
 
-**Headers** voor een full-size Arduino Mega 2560
+**Headers** 6x voor een full-size Arduino Mega 2560
 
-**header** voor een Display LCD2004
+**Header** voor een Display LCD2004
 
 **Boxed Headers :**
 <ul>
