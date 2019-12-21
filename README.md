@@ -1,4 +1,4 @@
-<p><a href="https://www.pi4dec.nl/zelfbouw-meetzender/"><img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/images/crew.jpg"></a></p> 
+<p><a href="https://www.pi4dec.nl/zelfbouw-meetzender/"><img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/crew.jpg"></a></p> 
 
 <a href="https://www.pi4dec.nl/zelfbouw-meetzender/">DEC meetzender met Si5351, en 150dB verzwakker, ontworpen door en voor <b>DEC Dordrecht</b></a>.
 <hr>
