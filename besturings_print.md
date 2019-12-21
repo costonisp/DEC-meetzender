@@ -4,10 +4,10 @@ Schema besturings print :
 <a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega1.pdf"><img src= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega1TN.jpg"></a> | **+** | <a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega2.pdf"><img src= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega2TN.jpg" ></a>
 --------------------------------------------- | --- |  --------------------------------------------
 ArduinoMega2560 + Display + I2C bus connector |  | Drukknoppen + Rotary schakelaars + overige connectors
-<hr>
+<p>
 De Besturingsprint is een 4-laags PCB. 
 De signaal verbindingen liggen opgesloten tussen een massa vlak en een Vcc vlak, zodat stoorstraling geminimaliseerd wordt.
-
+<p>
 **Headers** 6x voor een full-size Arduino Mega 2560
 
 **Header** voor een Display LCD2004
