@@ -20,4 +20,12 @@ De signaal verbindingen liggen opgesloten tussen een massa vlak en een Vcc vlak,
   <li> SV3 : stuursignaal verzwakker print </li>
   <li> SV4 : stuursignaal verzwakker print </li>
 </ul>
+
+**Drukknoppen :**
+<ul>
+    <li>S4</li>  
+    <li>S5</li>
+    <li>S6</li>
+    <li>S7</li>
+</ul>
 <img src="https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/Dot.jpg">
