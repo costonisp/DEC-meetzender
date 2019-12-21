@@ -28,6 +28,6 @@ De signaal verbindingen liggen opgesloten tussen een massa vlak en een Vcc vlak,
 **Drukknoppen :**
 <ul>
     <li> taxt switches:  S6, S7, S8 en S9  met Led's </li>
-    <li> rotary swiches: SW1 en SW3  met drukschakelaar S1 en S3 </li>
+    <li> rotary swiches: SW1 en SW2  met drukschakelaar S1 en S2 </li>
 </ul>
 <hr>
