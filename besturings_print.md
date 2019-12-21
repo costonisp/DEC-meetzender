@@ -3,7 +3,7 @@ Schema's:
 
 <p><a href="https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega1.pdf"><img align="left" src="https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega1TN.jpg"></a><a href="https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega2.pdf"><img align="right" src="https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoMega2TN.jpg" ></a>
 </p>
-
+<p></p>
 <p><align="left">links: ArduinoMega + Display</align> <align="right"> Rechts: Drukknoppen + Rotary schakelaars</align></p>
 
 De Besturingsprint is een 4-laags PCB. 
