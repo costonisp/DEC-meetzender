@@ -1,6 +1,6 @@
 <p><a href="https://github.com/costonisp/Meetzender/blob/master/SourceCode"><b>Source Code Folder</b></a></p>
 <hr>
-<b>Versie 3112 :</b></b>
+<a href="https://github.com/costonisp/Meetzender/blob/master/SourceCode/meetzender_v3112"><b>Versie 3112 :</b></a>
     <p>Deze versie ondersteund diverse menu's, waardoor een verhoogd gebruiksgemak.
     Via menu kan een correctiefactor worden ingevoerd waarmee de afwijking van het 
     referentie Xtal op de oscillator module kan worden gecorrigeerd.
