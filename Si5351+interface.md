@@ -4,9 +4,11 @@
 ----------------------------------- | --- | -----------------------------------------
  Si5351 oscillator board | - | schema Si5351 board
  |  | 
+ |  | 
 <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/I2CisolatorTN.jpg"> | . | <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/Missing.jpg">
 Bidirectionele Dual I2C isolator | . | schema Bidirectionele Dual I2C isolator
- | | 
+ |  |
+ |  |
 <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockATN.jpg"> | . | <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockBTN.jpg">
 
 De Si5351 oscillator zit in een massieve messing behuizing welke op de messing afscherming van de verzwakker print wordt geschroefd. Met een semi-rigid RG402 coax-kabel is de oscillator module op de verzwakker module aangesloten.
