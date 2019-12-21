@@ -9,7 +9,7 @@
     Voor het geval dat 0dBm uitgangsvermogen te laag is kan via een menu tijdelijk 
     het uitgangsvermogen verhoogd worden tot ca +12 dBm. (Drive 2, 4, 6 of 8 mA)</p>
 <hr> 
-<a href="https://github.com/costonisp/Meetzender/blob/master/SourceCode/Meetzender_CLK1_dec"><b>Versie 085 CLK1 dec :</b></a>
+<a href="https://github.com/costonisp/Meetzender/blob/master/SourceCode/Meetzender_0_85_CLK1_dec"><b>Versie 085 CLK1 dec :</b></a>
     <p>Deze versie is versie 085 aangepast aan de recente besturingsprint.
     Het signaal staat op CLK1, de middelste SMA connector.
     LCD display gebruikt pin 44 en 46, daardoor is pin 50 t/m 53 bruikbaar als SPI bus.</p>
