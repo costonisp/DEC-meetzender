@@ -3,8 +3,7 @@ Het hart van de oscilator is het AdaFruit Si5351 board.
 <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/ada5351.jpg">| <b>-</b> | <a href="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/AdaSi5351Sch.pdf"><img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/AdaSi5351SchTN.jpg"></a>
 ----------------------------------- | --- | -----------------------------------------
 AdaFruit Si5351 board | - | schema Si5351 board
-| |
-
+ .| . | .
 <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/I2CisolatorTN.jpg"> | - | - </p>
 Dual I2C isolator | . | schema I2C isolator
 <p>
