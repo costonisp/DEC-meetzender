@@ -11,7 +11,7 @@ Bidirectionele Dual I2C isolator | . | schema Bidirectionele Dual I2C isolator
  |  |
 <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockATN.jpg"> | . | <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockBTN.jpg">
 
-De Si5351 oscillator is in een massief messing blok gemonteerd welke op de messing afscherming van de verzwakker print wordt geschroefd. Aan de achterkant van de oscillator-module is het I2C Isolator board gemonteerd die met een bandkabel aan de besturingsprint wordt aangesloten.
+De Si5351 oscillator is in een massief messing blok gemonteerd welke op de messing afscherming van de verzwakker print wordt geschroefd. Aan de achterkant van de oscillator-module is het bidirectionele I2C Isolator board gemonteerd die met een bandkabel aan de besturingsprint wordt aangesloten.
 
 Met een semi-rigid RG402 coax-kabel is de oscillator module op de verzwakker module aangesloten.
 Hierdoor kan het signaal niet via signaal of voedings leiding of door een niet volledig hf-dichte coax naar buiten lekken.
