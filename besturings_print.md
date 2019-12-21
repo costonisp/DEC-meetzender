@@ -10,7 +10,7 @@ De signaal verbindingen liggen opgesloten tussen een massa vlak en een Vcc vlak,
   
 <a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoBoard.pdf">           <img src="https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoBrdTN.jpg"></a> |**-** | <a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduino.jpg">           <img src="https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoTN.jpg"></a>
 --------------------------------------------- | --- | ---------------------------------------------------
-  PCB layout (inner layers) | |   complete besturingsprint
+  PCB layout (# inner layers) | |   complete besturingsprint
 <p>
   
 **Headers** 6x voor een full-size Arduino Mega 2560
@@ -25,9 +25,9 @@ De signaal verbindingen liggen opgesloten tussen een massa vlak en een Vcc vlak,
   <li> SV4 : latch stuursignaal verzwakker print </li>
 </ul>
 
-**Drukknoppen :**
+**Schakelaars :**
 <ul>
-    <li> taxt switches:  S6, S7, S8 en S9  met Led's </li>
-    <li> rotary swiches: SW1 en SW2  met drukschakelaar S1 en S2 </li>
+    <li> tact-switches:  S6, S7, S8 en S9  met Led's </li>
+    <li> rotary-swiches: SW1 en SW2  met drukschakelaar S1 en S2 </li>
 </ul>
 <hr>
