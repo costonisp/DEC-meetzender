@@ -1,4 +1,7 @@
-<p>Eenvoudigste methode van een software-versie downloaden is vanuit de folder-view de zipfile aan te klikken, daarna staat aan de rechterzijde een download. Plaats de uitgepakte zip-file in de Arduino sketch folder, waarna het uploaden naar een Mega2560 eenvoudig is.</p>
+<p>Eenvoudigste is om een zipfile van de software-versie te downloaden vanuit de folder-view, download button staat aan de rechter-bovenzijde. Plaats de uitgepakte zip-file in de Arduino sketch folder, waarna het compileren en uploaden naar een Mega2560 eenvoudig moet lukken.
+Zorg ervoor dat de benodigde libraries aanwezig zijn, deze zijn:
+    etherkit, 
+</p>
 <p></p>
 <p><a href="https://github.com/costonisp/Meetzender/blob/master/SourceCode"><b>SourceCode folder-view</b></a></p>
 <hr>
