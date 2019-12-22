@@ -2,17 +2,18 @@
 
 <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/ada5351.jpg"> | <a href="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/AdaSi5351Brd.pdf"><img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/AdaSi5351BrdTN.jpg"></a> | <a href="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/AdaSi5351Sch.pdf"><img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/AdaSi5351SchTN.jpg"></a>
 ----------------------------------- | --- | -----------------------------------------
- Si5351 oscillator board | PCB layout | schema Si5351 board
+ Si5351 oscillator board | board layout | schema Si5351 board
  |  | 
  |  | 
  <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/I2CisolatorTN.jpg"> | <a href="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/BidirectionalDualI2CIsolatorBrd.pdf"><img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/BidirectionalDualI2CIsolatorBrdTN.jpg"> | <a href="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/BidirectionalDualI2CIsolatorSch.pdf"><img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/BidirectionalDualI2CIsolatorSchTN.jpg">
-I2C isolator board met <br> geintegreerde <a href="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/ADUM1250_1251.pdf"> ADUM1250 </a> IC. | board layout | schema bidirectionele dual I2C isolator
+I2C isolator board.  | board layout | schema bidirectionele dual I2C isolator
 <p></p>
 
 <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockATN.jpg"> | <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockBTN.jpg">
 ------------------------------- | -------------------------------------
 <p>
-De Si5351 oscillator is in een massief messing blok gemonteerd welke op de messing afscherming van de verzwakker print wordt geschroefd. Aan de achterkant van de oscillator-module is het bidirectionele I2C Isolator board gemonteerd die met een bandkabel aan de besturingsprint wordt aangesloten.
+De Si5351 oscillator is in een massief messing blok gemonteerd welke op de messing afscherming van de verzwakker print wordt geschroefd.
+Aan de achterkant van de oscillator-module is het I2C Isolator board gemonteerd. Dit board heeft een DC-DC converter en heeft een geintegreerde <a href="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/ADUM1250_1251.pdf"> ADUM1250 </a> isolator IC . Het board word met een bandkabel aan de besturingsprint aangesloten.
 
 Met een semi-rigid RG402 coax-kabel is de oscillator module op de verzwakker module aangesloten.
 Hierdoor kan het signaal niet via I2C, voedings leiding of door een niet volledig hf-dichte coax naar buiten lekken.
