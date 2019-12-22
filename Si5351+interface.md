@@ -5,7 +5,7 @@
  Si5351 oscillator board | . | schema Si5351 board
  |  | 
  |  | 
-<img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/I2CisolatorTN.jpg"> | <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/Missing.jpg"> | <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/Missing.jpg">
+ <a href="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/I2Cisolator.jpg"><img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/I2CisolatorTN.jpg"> | <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/Missing.jpg"> | <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/Missing.jpg">
 I2C isolator board met DC-DC converter en <br> geintegreerde <a href="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/ADUM1250_1251.pdf"> ADUM1250 </a> dual I2C isolator IC. | . | schema bidirectionele dual I2C isolator
 <p></p>
 
