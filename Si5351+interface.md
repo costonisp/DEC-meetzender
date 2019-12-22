@@ -6,7 +6,7 @@
  |  | 
  |  | 
 <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/I2CisolatorTN.jpg"> | . | <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/Missing.jpg">
-Bidirectionele Dual I2C isolator met <br> DC-DC spannings converter en ADUM1250 I2C coupler. | . | schema Bidirectionele Dual I2C isolator
+Bidirectionele Dual I2C isolator met DC-DC <br> spannings converter en ADUM1250 I2C coupler. | . | schema Bidirectionele Dual I2C isolator
  |  |
  |  |
 <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockATN.jpg"> | . | <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockBTN.jpg">
