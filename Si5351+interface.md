@@ -15,12 +15,11 @@ I2C isolator board.  | board layout | schema bidirectionele dual I2C isolator
 <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockATN.jpg"> | <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockBTN.jpg">
 ------------------------------- | -------------------------------------
 <p></p>
-Het AdaFruit Si5351 oscillator-board is in een massief messing blok gemonteerd en dit word op de messing afscherming van de verzwakker print geschroefd. 
-Aan de achterkant van de oscillator-module is het I2C Isolator board gemonteerd. Dit board heeft een DC-DC converter en heeft een geintegreerd <a href="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/ADUM1250_1251.pdf"> ADUM1250 </a> isolator IC . Het board word met een bandkabel op de besturingsprint aangesloten.
+<p>Het AdaFruit Si5351 oscillator-board is in een massief messing blok gemonteerd en dit word op de messing afscherming van de verzwakker print geschroefd. 
+Aan de achterkant van de oscillator-module is het I2C Isolator board gemonteerd. Dit board heeft een DC-DC converter en heeft een geintegreerd <a href="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/ADUM1250_1251.pdf"> ADUM1250 </a> isolator IC . Het board word met een bandkabel op de besturingsprint aangesloten.</p>
 
-
-Met een semi-rigid RG402 coax-kabel is de oscillator module op de verzwakker module aangesloten.
+<p>Met een semi-rigid RG402 coax-kabel is de oscillator module op de verzwakker module aangesloten.
 Daardoor kan het signaal niet via I2C, voedings leiding of door een niet volledig hf-dichte coax naar buiten lekken.
-Op deze manier is het mogelijk om het signaal tot -145dBm te verzwakken
+Op deze manier is het mogelijk om het signaal tot -145dBm te verzwakken</p>
 
 [//]: # (This may be the most platform independent comment)
