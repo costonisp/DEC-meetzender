@@ -3,8 +3,8 @@
 <p>Eenvoudigste is om de (meest recente) zipfile hieronder aan te klikken. De [download] knop staat dan aan de rechter-zijde naast de [history] knop. Plaats de uitgepakte zip-file in de Arduino sketch folder, waarna het compileren en uploaden naar een Mega2560 eenvoudig moet lukken.
 
 Zorg er wel voor dat een recente versie van de "Etherkit Si5351 by Jason Milldrum"  geinstalleerd is.
-
 </p>
+<hr>
 <a href="https://github.com/costonisp/Meetzender/blob/master/SourceCode/Meetzender_v3112.zip"><b>Versie 3112.zip : </b></a>(december 2019)
     <p>Deze versie ondersteund diverse menu's, waardoor een verhoogd gebruiksgemak.
     Via menu kan een correctiefactor worden ingevoerd waarmee de afwijking van het 
