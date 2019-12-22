@@ -5,7 +5,7 @@
  Si5351 oscillator board | . | schema Si5351 board
  |  | 
  |  | 
- <a href="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/I2Cisolator.jpg"><img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/I2CisolatorTN.jpg"> | <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/Missing.jpg"> | <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/Missing.jpg">
+ <a href="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/I2Cisolator.jpg"><img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/I2CisolatorTN.jpg"> | <a href="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/BidirectionalDualI2CIsolatorBrd.pdf"><img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/BidirectionalDualI2CIsolatorBrdTN"> | <a href="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/BidirectionalDualI2CIsolatorSch.pdf"><img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/BidirectionalDualI2CIsolatorSchTN">
 I2C isolator board met DC-DC converter en <br> geintegreerde <a href="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/ADUM1250_1251.pdf"> ADUM1250 </a> dual I2C isolator IC. | . | schema bidirectionele dual I2C isolator
 <p></p>
 
