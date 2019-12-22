@@ -24,4 +24,4 @@ Daardoor kan het signaal niet via I2C, voedings leiding of door een niet volledi
 Op deze manier is het mogelijk om het signaal tot -145dBm te verzwakken</p>
 
 [//]: # (This may be the most platform independent comment)
-[//]: # (see also https://webapps.stackexchange.com/questions/29602/markdown-to-insert-and-display-an-image-on-github-repo
+[//]: # (see also https://webapps.stackexchange.com/questions/29602/markdown-to-insert-and-display-an-image-on-github-repo)
