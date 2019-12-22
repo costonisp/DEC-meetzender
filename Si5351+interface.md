@@ -1,5 +1,5 @@
-[//]: # (MarkDown format documentation: https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-[//]: # (2 Tables with 3_columns/5_lines and 2_columns/1_line)
+[//]: # (MarkDown format documentation: https://guides.github.com/features/mastering-markdown/)
+[//]: # (Table-A with 3-columns/5-lines, table-B with 2-columns/1-line)
 
 <b> <p align="center"> Si5351 Oscillator Board met  Bidirectionele Dual I2C Isolator:</p></b>
 
@@ -16,9 +16,9 @@ I2C isolator board.  | board layout | schema dual I2C isolator
 ------------------------------- | -------------------------------------
 <p></p>
 
- [//]: # (//![Image description](link-to-image)//)
+ [//]: # (/![Image description](link-to-image)/)
 
-![picA](https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockATN.jpg) |![](https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockBTN.jpg)
+![](https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockATN.jpg) |![](https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockBTN.jpg)
 ------------------------------- | -------------------------------------
 
 <p></p>
