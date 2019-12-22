@@ -12,7 +12,7 @@ De signaal verbindingen liggen opgesloten tussen een massa vlak en een Vcc vlak,
   **PCB layout** *( inner layers )* | |   **componenten v/d besturingsprint**<p>
 
 
-Verzwakker, 31.5dB verzwakking, 5 stuks in serie op verzwakkerprint.</p>
+Verzwakker, 31.5dB verzwakking, 5 stuks in serie op verzwakkerprint
 
 
 Power supply op verzwakker print</p> 
