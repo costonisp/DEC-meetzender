@@ -3,8 +3,8 @@
 <a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/verzwakker_print/Attenuator.jpg"><img src= "https://github.com/costonisp/Meetzender/blob/master/documentation/verzwakker_print/AttenuatorTN.jpg"></a> | . | <a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/verzwakker_print/AttenuatorPower.jpg"><img src= "https://github.com/costonisp/Meetzender/blob/master/documentation/verzwakker_print/AttenuatorPowerTN.jpg" ></a>
 --------------------------------------------- | --- |  --------------------------------------------
 **Verzwakker element 31.5dB** |  | **Power Supply verzwakker print**
-| . | 
-| . |
+|  | 
+|  |
 
 
 De Verzwakker print is een 4-laags PCB. 
