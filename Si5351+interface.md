@@ -1,12 +1,12 @@
 <b> <p align="center"> Si5351 Oscillator Board met  Bidirectionele Dual I2C Isolator:</p></b>
 
-<img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/ada5351.jpg"> | <b>-</b> | <a href="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/AdaSi5351Sch.pdf"><img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/AdaSi5351SchTN.jpg"></a>
+<img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/ada5351.jpg"> | <b>.</b> | <a href="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/AdaSi5351Sch.pdf"><img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/AdaSi5351SchTN.jpg"></a>
 ----------------------------------- | --- | -----------------------------------------
- Si5351 oscillator board | - | schema Si5351 board
+ Si5351 oscillator board | . | schema Si5351 board
  |  | 
  |  | 
 <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/I2CisolatorTN.jpg"> | . | <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/Missing.jpg">
-I2C isolator board met DC-DC converter en <br> geintegreerde <a href="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/ADUM1250_1251.pdf"> ADUM1250 </a> dual I2C isolator IC. | . | schema Bidirectionele Dual I2C isolator
+I2C isolator board met DC-DC converter en <br> geintegreerde <a href="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/ADUM1250_1251.pdf"> ADUM1250 </a> dual I2C isolator IC. | . | schema bidirectionele dual I2C isolator
  |  |
  |  |
 <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockATN.jpg"> | . | <img src="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockBTN.jpg">
