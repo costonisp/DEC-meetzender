@@ -1,4 +1,6 @@
-<p><a href="https://github.com/costonisp/Meetzender/blob/master/SourceCode"><b>Source Code folder-view</b></a></p>
+<p>Eenvoudigste methode van een software-versie downloaden is vanuit de folder-view de zipfile aan te klikken, daarna staat aan de rechterzijde een download. Plaats de uitgepakte zip-file in de Arduino sketch folder, waarna het uploaden naar een Mega2560 eenvoudig is.</p>
+<p></p>
+<p><a href="https://github.com/costonisp/Meetzender/blob/master/SourceCode"><b>SourceCode folder-view</b></a></p>
 <hr>
 <a href="https://github.com/costonisp/Meetzender/blob/master/SourceCode/Meetzender_v3112"><b>Versie 3112 :</b></a>
     <p>Deze versie ondersteund diverse menu's, waardoor een verhoogd gebruiksgemak.
