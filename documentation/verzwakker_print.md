@@ -1,6 +1,6 @@
 <b> <p align="center"> VERZWAKKER PRINT :</p></b>
 
-<a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/verzwakker_print/Attenuator.jpg"><img src= "https://github.com/costonisp/Meetzender/blob/master/documentation/verzwakker_print/AttenuatorTN.jpg"></a> | . | <a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/verzwakker_print/AttenuatorPower.jpg"><img src= "https://github.com/costonisp/Meetzender/blob/master/documentation/verzwakker_print/AttenuatorPowerTN.jpg" ></a>
+<a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/verzwakker_print/Attenuator.jpg"><img src= "https://github.com/costonisp/Meetzender/blob/master/documentation/verzwakker_print/AttenuatorTN.jpg"></a> | <a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/verzwakker_print/AttenuatorBrd.pdf"><img src= "https://github.com/costonisp/Meetzender/blob/master/documentation/verzwakker_print/AttenuatorBrdTN.jpg"></a> | <a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/verzwakker_print/AttenuatorPower.jpg"><img src= "https://github.com/costonisp/Meetzender/blob/master/documentation/verzwakker_print/AttenuatorPowerTN.jpg" ></a>
 --------------------------------------------- | --- |  --------------------------------------------
 **Digitale stap verzwakker 31.5dB** |  | **Power Supply verzwakker print**
 |  | 
