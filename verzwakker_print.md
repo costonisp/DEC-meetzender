@@ -7,8 +7,7 @@
 De Verzwakker print is een 4-laags PCB. 
 De signaal verbindingen liggen opgesloten tussen een massa vlak en een Vcc vlak, zodat stoorstraling geminimaliseerd wordt.
   
-<a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoBoard.pdf">           <img src="https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoBrdTN.jpg"></a> |**-** | <a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduino.jpg">           <img src="https://github.com/costonisp/Meetzender/blob/master/documentation/besturing_print/DisplayArduinoTN.jpg"></a>
---------------------------------------------- | --- | ---------------------------------------------------
+|**.** | --------------------------------------------- | --- | ---------------------------------------------------
   **PCB layout** *( inner layers )* | |   **componenten v/d besturingsprint**<p>
 
 
