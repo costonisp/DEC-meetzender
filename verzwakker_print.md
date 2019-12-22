@@ -1,6 +1,6 @@
 <b> <p align="center"> VERZWAKKER PRINT :</p></b>
 
-<a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/verzwakker_print/Attenuator.jpg"><img src= "https://github.com/costonisp/Meetzender/blob/master/documentation/verzwakker_print/DisplayAttenuatorTN.jpg"></a> | **+** | <a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/verzwakker_print/AttenuatorPower.jpg"><img src= "https://github.com/costonisp/Meetzender/blob/master/documentation/verzwakkerbesturing_print/AttenuatorPowerTN.jpg" ></a>
+<a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/verzwakker_print/Attenuator.jpg"><img src= "https://github.com/costonisp/Meetzender/blob/master/documentation/verzwakker_print/AttenuatorTN.jpg"></a> | **+** | <a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/verzwakker_print/AttenuatorPower.jpg"><img src= "https://github.com/costonisp/Meetzender/blob/master/documentation/verzwakker_print/AttenuatorPowerTN.jpg" ></a>
 --------------------------------------------- | --- |  --------------------------------------------
 **ArduinoMega2560 + Display + I2C-connector** |  | **Drukknoppen + Rotary schakelaars + connectors**
 <p>
