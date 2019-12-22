@@ -18,7 +18,7 @@ I2C isolator board.  | board layout | schema bidirectionele dual I2C isolator
 
  ![Image description](link-to-image)
 
-![dit](https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockATN.jpg) | !(https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockBTN.jpg)
+![dit](https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockATN.jpg) |[] !(https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockBTN.jpg)
 ------------------------------- | -------------------------------------
 
 <p></p>
