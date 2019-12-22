@@ -14,5 +14,5 @@ I2C isolator board met DC-DC converter en <br> geintegreerde <a href="https://gi
 De Si5351 oscillator is in een massief messing blok gemonteerd welke op de messing afscherming van de verzwakker print wordt geschroefd. Aan de achterkant van de oscillator-module is het bidirectionele I2C Isolator board gemonteerd die met een bandkabel aan de besturingsprint wordt aangesloten.
 
 Met een semi-rigid RG402 coax-kabel is de oscillator module op de verzwakker module aangesloten.
-Hierdoor kan het signaal niet via signaal of voedings leiding of door een niet volledig hf-dichte coax naar buiten lekken.
+Hierdoor kan het signaal niet via I2C, voedings leiding of door een niet volledig hf-dichte coax naar buiten lekken.
 Alleen op die manier is het mogelijk om het signaal tot -145dBm te verzwakken
