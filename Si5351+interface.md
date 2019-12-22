@@ -1,5 +1,5 @@
 [//]: # (MarkDown format documentation: https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-[//]: # (Table with 3 columns and 5 lines)
+[//]: # (2 Tables with 3_columns/5_lines and 2_columns/1_line)
 
 <b> <p align="center"> Si5351 Oscillator Board met  Bidirectionele Dual I2C Isolator:</p></b>
 
