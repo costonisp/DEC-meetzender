@@ -1,6 +1,9 @@
 <p>Eenvoudigste is om een zipfile van de software-versie te downloaden vanuit de folder-view, download button staat aan de rechter-bovenzijde. Plaats de uitgepakte zip-file in de Arduino sketch folder, waarna het compileren en uploaden naar een Mega2560 eenvoudig moet lukken.
+    <ul>
 Zorg ervoor dat de benodigde libraries aanwezig zijn, deze zijn:
-    etherkit, 
+<li>    Etherkit Si5351 by Jason Milldrum
+<li>    LiquidCrystal by Arduino, Adafruit
+</ul>
 </p>
 <p></p>
 <p><a href="https://github.com/costonisp/Meetzender/blob/master/SourceCode"><b>SourceCode folder-view</b></a></p>
