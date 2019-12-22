@@ -17,7 +17,10 @@ I2C isolator board.  | board layout | schema dual I2C isolator
 <p></p>
 
 <p>Het AdaFruit Si5351 oscillator-board is in een massief messing blok gemonteerd en dit word op de messing afscherming van de verzwakker print geschroefd. 
-Aan de achterkant van de oscillator-module is het I2C Isolator board gemonteerd. Om een aardlus en hf-lekkage te vermijden is dit board van eigen DC-DC converter voorzien. De I2C isolatie is d.m.v. een <a href="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/ADUM1250_1251.pdf"> ADUM1250 </a> isolator.  
+Aan de achterkant van de oscillator-module is het I2C Isolator board gemonteerd. 
+ 
+Om een aardlus en hf-lekkage te vermijden is dit board van eigen DC-DC converter voorzien. De I2C isolatie is d.m.v. een <a href="https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/ADUM1250_1251.pdf"> ADUM1250 </a> isolator.
+
 De oscillator module word met een bandkabel op de besturingsprint aangesloten.</p>
 
 <p>Met een semi-rigid RG402 coax-kabel is de oscillator module op de verzwakker module aangesloten.
