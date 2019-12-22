@@ -16,10 +16,10 @@ I2C isolator board.  | board layout | schema dual I2C isolator
 ------------------------------- | -------------------------------------)
 <p></p>
 
-[//]: # (see https://webapps.stackexchange.com/questions/29602/markdown-to-insert-and-display-an-image-on-github-repo)
+[//]: # (see https://webapps.stackexchange.com/questions/29602/markdown-to-insert-and-display-an-image-on-github-repo
 
 ![](https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockATN.jpg) |![](https://github.com/costonisp/DEC-meetzender-test/blob/master/documentation/Si5351+interface/OscillatorBlockBTN.jpg)
-------------------------------- | -------------------------------------
+------------------------------- | -------------------------------------)
 
 <p></p>
 <p>Het AdaFruit Si5351 oscillator-board is in een massief messing blok gemonteerd en dit word op de messing afscherming van de verzwakker print geschroefd. 
