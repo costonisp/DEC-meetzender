@@ -10,5 +10,4 @@
 De Verzwakker print is een 4-laags PCB. 
 De signaal verbindingen liggen opgesloten tussen een massa vlak en een Vcc vlak, zodat stoorstraling geminimaliseerd wordt.
   
-De verzwakker module bestaat uit 5 stuks <a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/verzwakker_print/DAT-31R5A-PN.pdf">DAT-31R5A-PN</a> digitale stap verzwakkers (max 31.5dB) in serie, zodat maximaal 157.5dB verzwakking gemaakt kan worden. In de praktijk blijkt de grens op 145dB verzwakking te staan.
-
+De verzwakker module bestaat uit 5 stuks <a href= "https://github.com/costonisp/Meetzender/blob/master/documentation/verzwakker_print/DAT-31R5A-PN.pdf">DAT-31R5A-PN</a> digitale stap verzwakkers (max 31.5dB) van Mini Circuits in serie. Iedere verzwakker is in een eigen door messing platen afgeschermd compartiment geplaatst. Zodoende kan maximaal 157.5dB verzwakking ingesteld worden. In de praktijk blijkt de grens bij 145dB verzwakking te liggen.
