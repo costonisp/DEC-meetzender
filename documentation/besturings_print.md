@@ -1,6 +1,6 @@
 <b> <p align="center"> BESTURINGS PRINT :</p></b>
 
-<a href= "besturing_print/DisplayArduinoMega1.pdf"><img src= "besturing_print/DisplayArduinoMega1TN.jpg"></a> | **+** | <a href= "besturing_print/DisplayArduinoMega2.pdf"><img src= "besturing_print/DisplayArduinoMega2TN.jpg" ></a>
+[![](besturing_print/DisplayArduinoMega1TN.jpg)](besturing_print/DisplayArduinoMega1.pdf) | **+** | <a href= "besturing_print/DisplayArduinoMega2.pdf"><img src= "besturing_print/DisplayArduinoMega2TN.jpg" ></a>
 --------------------------------------------- | --- |  --------------------------------------------
 **ArduinoMega2560 + Display + I2C-connector** |  | **Drukknoppen + Rotary schakelaars + connectors**
 <p>
