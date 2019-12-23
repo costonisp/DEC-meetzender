@@ -7,7 +7,7 @@
 
 <b> <p align="center"> Si5351 Oscillator Board met  Bidirectionele Dual I2C Isolator:</p></b>
 
-![](Si5351+interface/ada5351.jpg) | [![](Si5351+interface/AdaSi5351BrdTN.jpg)](Si5351+interface/AdaSi5351Brd.pdf) | [![(img src="Si5351+interface/AdaSi5351SchTN.jpg)](Si5351+interface/AdaSi5351Sch.pdf)
+![](Si5351+interface/ada5351.jpg) | [![](Si5351+interface/AdaSi5351BrdTN.jpg)](Si5351+interface/AdaSi5351Brd.pdf) | [![(img Si5351+interface/AdaSi5351SchTN.jpg)](Si5351+interface/AdaSi5351Sch.pdf)
 ----------------------------------- | --- | -----------------------------------------
  Si5351 oscillator board | board layout | schema Si5351 board
  |  | 
