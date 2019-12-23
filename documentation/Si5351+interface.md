@@ -1,5 +1,5 @@
 
-![Si5351+interface\/AdaSi5351Sch.pdf](Si5351+interface/AdaSi5351SchTN.jpg)
+![<a href>"Si5351+interface/AdaSi5351Sch.pdf"</a>](Si5351+interface/AdaSi5351SchTN.jpg)
 
 [//]: # (MarkDown format documentation: https://guides.github.com/features/mastering-markdown/)
 [//]: # (Table-A with 3-columns/5-lines, table-B with 2-columns/1-line)
