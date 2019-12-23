@@ -1,4 +1,4 @@
-<p><a href="SourceCode"><b>SourceCode folder-view</b></a></p>
+<p><a href="/SourceCode"><b>SourceCode folder-view</b></a></p>
 <hr>
 <p>Eenvoudigste is om de (meest recente) zipfile hieronder aan te klikken. De [download] knop staat dan aan de rechter-zijde naast de [history] knop. Plaats de uitgepakte zip-file in de Arduino sketch folder, waarna het compileren en uploaden naar een Mega2560 eenvoudig moet lukken.
 
