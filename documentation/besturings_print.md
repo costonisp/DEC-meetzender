@@ -1,3 +1,5 @@
+[//]: # (Table with 3-columns/7-lines)
+
 <b> <p align="center"> BESTURINGS PRINT :</p></b>
 <p>De Besturingsprint is een 4-laags PCB. 
 De signaal verbindingen liggen opgesloten tussen een massa vlak en een Vcc vlak, zodat stoorstraling geminimaliseerd wordt.</p>
@@ -5,9 +7,10 @@ De signaal verbindingen liggen opgesloten tussen een massa vlak en een Vcc vlak,
 [![](besturing_print/DisplayArduinoMega1TN.jpg)](besturing_print/DisplayArduinoMega1.pdf) | **+** |  [![](besturing_print/DisplayArduinoMega2TN.jpg)](besturing_print/DisplayArduinoMega2.pdf)
 --------------------------------------------- | --- |  -----------------------------------------------
 **ArduinoMega2560 + Display + I2C-connector** |     | **Drukknoppen + Rotary schakelaars + connectors**
- |    | 
- |    | 
-[![](besturing_print/DisplayArduinoBrdTN.jpg)](besturing_print/DisplayArduinoBoard.pdf) |**-** |  [![](besturing_print/DisplayArduinoTN.jpg)]("besturing_print/DisplayArduino.jpg)
+  |     |  
+  |     | 
+  |     | 
+[![](besturing_print/DisplayArduinoBrdTN.jpg)](besturing_print/DisplayArduinoBoard.pdf) |**-** | [![](besturing_print/DisplayArduinoTN.jpg)]("besturing_print/DisplayArduino.jpg)
   **PCB layout** *( inner layers )* |     |   **componenten v/d besturingsprint**
   
 **Headers :** voor een full-size Arduino Mega 2560
