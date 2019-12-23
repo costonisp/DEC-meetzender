@@ -1,3 +1,6 @@
+![Si5351+interface/AdaSi5351Brd.pdf](Si5351+interface/AdaSi5351BrdTN.jpg)
+![Si5351+interface/AdaSi5351Sch.pdf](Si5351+interface/AdaSi5351SchTN.jpg)
+
 [//]: # (MarkDown format documentation: https://guides.github.com/features/mastering-markdown/)
 [//]: # (Table-A with 3-columns/5-lines, table-B with 2-columns/1-line)
 
@@ -28,3 +31,5 @@ Op deze manier is het mogelijk om het signaal tot -145dBm te verzwakken.
 
 [//]: # (This may be the most platform independent comment)
 [//]: # (see also https://webapps.stackexchange.com/questions/29602/markdown-to-insert-and-display-an-image-on-github-repo)
+
+
