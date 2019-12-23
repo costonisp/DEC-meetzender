@@ -1,5 +1,5 @@
 
-[![test](Si5351+interface/AdaSi5351SchTN.jpg)](Si5351+interface/AdaSi5351Sch.pdf)
+[![](Si5351+interface/AdaSi5351SchTN.jpg)](Si5351+interface/AdaSi5351Sch.pdf)
 
 
 [//]: # (MarkDown format documentation: https://guides.github.com/features/mastering-markdown/)
