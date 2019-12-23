@@ -1,7 +1,3 @@
-
-[![](Si5351+interface/AdaSi5351SchTN.jpg)](Si5351+interface/AdaSi5351Sch.pdf)
-
-
 [//]: # (MarkDown format documentation: https://guides.github.com/features/mastering-markdown/)
 [//]: # (Table-A with 3-columns/5-lines, table-B with 2-columns/1-line)
 
