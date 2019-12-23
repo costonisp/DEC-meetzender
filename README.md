@@ -14,7 +14,7 @@
 <b>Costo:</b> software, co-ontwerp besturingsprint, documentatie.
 <hr>
 
-<p><a href="https://github.com/costonisp/Meetzender/blob/master/documentation/besturings_print.md"><b>Besturings print</b></a></p>
-<p><a href="https://github.com/costonisp/Meetzender/blob/master/documentation/verzwakker_print.md"><b>Verzwakker print</b></a></p>
-<p><a href="https://github.com/costonisp/Meetzender/blob/master/documentation/Si5351%2Binterface.md"><b>Si5351 oscillator + I2C isolator</b></a></p>
-<p><a href="https://github.com/costonisp/Meetzender/blob/master/SourceCode/source_code.md"><b>Source Code</b></a></p>
+<p><a href="/documentation/besturings_print.md"><b>Besturings print</b></a></p>
+<p><a href="/documentation/verzwakker_print.md"><b>Verzwakker print</b></a></p>
+<p><a href="/documentation/Si5351%2Binterface.md"><b>Si5351 oscillator + I2C isolator</b></a></p>
+<p><a href="/SourceCode/source_code.md"><b>Source Code</b></a></p>
