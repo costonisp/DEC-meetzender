@@ -22,8 +22,6 @@ I2C isolator board.  | board layout | schema dual I2C isolator
 Aan de achterkant van de oscillator-module is het I2C Isolator board gemonteerd. 
 Om hf-lekkage te vermijden is dit board van eigen DC-DC converter voorzien. De I2C isolatie is met een <a href="Si5351+interface/ADUM1250_1251.pdf"> ADUM1250 </a> isolatorIC .
  
-![Adum1250](Si5351+interface/ADUM1250_1251.pdf) isolatorIC .
-
 De oscillator module word met een bandkabel op de besturingsprint aangesloten.</p>
 
 Met een semi-rigid RG402 coax-kabel is de oscillator module op de verzwakker module aangesloten.
