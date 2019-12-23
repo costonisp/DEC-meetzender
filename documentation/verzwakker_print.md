@@ -2,7 +2,7 @@
 
 <a href="verzwakker_print/Attenuator.jpg"> <img src="verzwakker_print/AttenuatorTN.jpg"> </a> | <a href="verzwakker_print/AttenuatorBrd.pdf"> <img src="verzwakker_print/AttenuatorBrdTN.jpg"></a> | <a href="verzwakker_print/AttenuatorPower.jpg"> <img src="verzwakker_print/AttenuatorPowerTN.jpg" > </a>
 --------------------------------------------- | --- |  --------------------------------------------
-**Digitale stap verzwakker 31.5dB** | **Board layout**  | **Power Supply verzwakker print**
+**Digitale stap verzwakker** | **Board layout**  | **Power Supply verzwakker**
 |  | 
 |  |
 
