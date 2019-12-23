@@ -1,7 +1,6 @@
 
 [![test](Si5351+interface/AdaSi5351SchTN.jpg)](Si5351+interface/AdaSi5351Sch.pdf)
 
-[![Build Status](https://img.shields.io/travis/markdown-it/markdown-it/master.svg?style=flat)](https://travis-ci.org/markdown-it/markdown-it)
 
 [//]: # (MarkDown format documentation: https://guides.github.com/features/mastering-markdown/)
 [//]: # (Table-A with 3-columns/5-lines, table-B with 2-columns/1-line)
