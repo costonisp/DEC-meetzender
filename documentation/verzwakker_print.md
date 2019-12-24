@@ -1,6 +1,6 @@
 <b> <p align="center"> VERZWAKKER PRINT :</p></b>
 
-<a href="verzwakker_print/Attenuator.jpg"> <img src="verzwakker_print/AttenuatorTN.jpg"> </a> | <a href="verzwakker_print/AttenuatorBrd.pdf"> <img src="verzwakker_print/AttenuatorBrdTN.jpg"></a> | <a href="verzwakker_print/AttenuatorPower.jpg"> <img src="verzwakker_print/AttenuatorPowerTN.jpg" > </a>
+<a href="verzwakker_print/AttenuatorSch1.jpg"> <img src="verzwakker_print/AttenuatorSch1.pdf"> </a> | <a href="verzwakker_print/AttenuatorBrd.pdf"> <img src="verzwakker_print/AttenuatorBrdTN.jpg"></a> | <a href="verzwakker_print/AttenuatorSch6.jpg"> <img src="verzwakker_print/AttenuatorSch6.pdf" > </a>
 --------------------------------------------- | --- |  --------------------------------------------
 **5x Digitale stap verzwakker** | **Board layout**  | **Power Supply verzwakker**
 |  | 
