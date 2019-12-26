@@ -5,12 +5,10 @@
 <p></p>
 
  - Arnold PB0AIC:  alle ontwerpen en printontwerpen voor: verzwakker, besturing en oscillator-I2C interface
-
-<b>Mart PH0MH:</b> behuizing, draaibankwerkzaamheden voor oscillator behuizing en afscherming van de verzwakker.
-
-<b>Arie PA3A:</b> software ontwerp.
-
-<b>Costo:</b> software, co-ontwerp besturingsprint, documentatie.
+ - Mart PH0MH: behuizing, draaibankwerkzaamheden voor oscillator behuizing en afscherming van de verzwakker.
+ - Arie PA3A: software ontwerp.
+ - Costo: software, co-ontwerp besturingsprint, documentatie.
+ 
 <hr>
 
 __[Source Code](SourceCode/source_code.md)__
