@@ -18,14 +18,16 @@ __[**Versie 3112.zip** : ](SourceCode/Meetzender_v3112.zip)__ (december 2019)
     het uitgangsvermogen verhoogd worden tot ca +12 dBm. (Drive 2, 4, 6 of 8 mA)
 <hr> 
 
-<a href="/SourceCode/Meetzender_0_85_CLK1_dec.zip"><b>Versie 085 CLK1 dec.zip : </b></a> (2018)
-    <p>Deze versie is versie 085 aangepast aan de recente besturingsprint.
+__[Versie 085 CLK1 dec.zip : ](SourceCode/Meetzender_0_85_CLK1_dec.zip)__(2018)
+
+    >Deze versie is versie 085 aangepast aan de recente besturingsprint.
     Het signaal staat op CLK1, de middelste SMA connector.
-    LCD display gebruikt pin 44 en 46, daardoor is pin 50 t/m 53 bruikbaar als SPI bus.</p>
+    LCD display gebruikt pin 44 en 46, daardoor is pin 50 t/m 53 bruikbaar als SPI bus.
 <hr>  
 
-<a href="/SourceCode/Meetzender_0_85.zip"><b>Versie 085.zip : </b></a> (2017)
-    <p>Dit is de defenitieve versie geschreven door Arie PA3A.
+__[Versie 085.zip : ](SourceCode/Meetzender_0_85.zip)__(2017)
+
+    Dit is de defenitieve versie geschreven door Arie PA3A.
     Werkt niet meer met de meest recente besturingsprint.
-    LCD display gebruikt Arduino pin 50 en 52, waardoor de SPI bus geblokkeerd is.</p>
+    LCD display gebruikt Arduino pin 50 en 52, waardoor de SPI bus geblokkeerd is.
 <hr>
