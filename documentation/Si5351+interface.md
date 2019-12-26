@@ -7,14 +7,14 @@
 [![](Si5351+interface/AdaSi5351SchTN.jpg)](Si5351+interface/AdaSi5351Sch.pdf)
 --- | --- | ---
  Si5351 oscillator board | board layout | schema Si5351 board
- |  | 
+ 
 [![](Si5351+interface/I2CisolatorTN.jpg)](Si5351+interface/I2CisolatorTN.jpg) |  [![](Si5351+interface/BidirectionalDualI2CIsolatorBrdTN.jpg)](Si5351+interface/BidirectionalDualI2CIsolatorBrd.pdf) | [![](Si5351+interface/BidirectionalDualI2CIsolatorSchTN.jpg)](Si5351+interface/BidirectionalDualI2CIsolatorSch.pdf)
 I2C isolator board.  | board layout | schema dual I2C isolator
 
 [![](Si5351+interface/OscillatorBlockATN.jpg)](Si5351+interface/OscillatorBlockATN.jpg) | [![](Si5351+interface/OscillatorBlockBTN.jpg)](Si5351+interface/OscillatorBlockBTN.jpg)
 ---- | ----
  Oscillator in messing blok | Achterzijde met I2C interface
-  |
+
  
 Het AdaFruit Si5351 oscillator-board is in een massief messing blok gemonteerd en dit word op de messing afscherming van de verzwakker print geschroefd. 
 Aan de achterkant van de oscillator-module is het I2C Isolator board gemonteerd. 
