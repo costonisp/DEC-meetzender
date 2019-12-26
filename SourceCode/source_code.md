@@ -28,7 +28,7 @@ __[Versie 085 CLK1 dec.zip : ](/SourceCode/Meetzender_0_85_CLK1_dec.zip)__(2018)
 
 __[Versie 085.zip : ](/SourceCode/Meetzender_0_85.zip)__(2017)
 
-    Dit is de defenitieve versie geschreven door Arie PA3A.
+    Dit is de oorspronkelijke versie geschreven door Arie PA3A.
     Werkt niet meer met de meest recente besturingsprint.
     LCD display gebruikt Arduino pin 50 en 52, waardoor de SPI bus geblokkeerd is.
 
