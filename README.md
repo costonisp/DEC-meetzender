@@ -4,7 +4,7 @@
 <p>Meeste aktieve bijdragen zijn geleverd door:</p>
 <p></p>
 
-<b>Arnold PB0AIC:</b>  alle ontwerpen en printontwerpen voor: verzwakker, besturing en oscillator-I2C interface
+ - Arnold PB0AIC:  alle ontwerpen en printontwerpen voor: verzwakker, besturing en oscillator-I2C interface
 
 <b>Mart PH0MH:</b> behuizing, draaibankwerkzaamheden voor oscillator behuizing en afscherming van de verzwakker.
 
