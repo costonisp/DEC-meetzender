@@ -1,8 +1,8 @@
 [//]: # (Table with 3-columns/7-lines)
 
-<b> <p align="center"> BESTURINGS PRINT :</p></b>
-<p>De Besturingsprint is een 4-laags PCB. 
-De signaal verbindingen liggen opgesloten tussen een massa vlak en een Vcc vlak, zodat stoorstraling geminimaliseerd wordt.</p>
+##BESTURINGS PRINT :
+De Besturingsprint is een 4-laags PCB. 
+De signaal verbindingen liggen opgesloten tussen een massa vlak en een Vcc vlak, zodat stoorstraling geminimaliseerd wordt.
 
 [![](besturing_print/DisplayArduinoMega1TN.jpg)](besturing_print/DisplayArduinoMega1.pdf) | **+** |  [![](besturing_print/DisplayArduinoMega2TN.jpg)](besturing_print/DisplayArduinoMega2.pdf)
 --------------------------------------------- | --- |  -----------------------------------------------
