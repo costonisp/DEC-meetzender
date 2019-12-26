@@ -10,7 +10,6 @@
  |  | 
 [![](Si5351+interface/I2CisolatorTN.jpg)](Si5351+interface/I2CisolatorTN.jpg) |  [![](Si5351+interface/BidirectionalDualI2CIsolatorBrdTN.jpg)](Si5351+interface/BidirectionalDualI2CIsolatorBrd.pdf) | [![](Si5351+interface/BidirectionalDualI2CIsolatorSchTN.jpg)](Si5351+interface/BidirectionalDualI2CIsolatorSch.pdf)
 I2C isolator board.  | board layout | schema dual I2C isolator
-<p></p>
 
 [![](Si5351+interface/OscillatorBlockATN.jpg)](Si5351+interface/OscillatorBlockATN.jpg) | [![](Si5351+interface/OscillatorBlockBTN.jpg)](Si5351+interface/OscillatorBlockBTN.jpg)
 ---- | ----
