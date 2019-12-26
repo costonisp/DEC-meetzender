@@ -17,7 +17,7 @@ __[**Versie 3112.zip** : ](/SourceCode/Meetzender_v3112.zip)__ (december 2019)
     Instelbare harmonische factor die de maximale aangegeven frekwentie bepaalt.
     Voor het geval dat 0dBm uitgangsvermogen te laag is kan via een menu tijdelijk 
     het uitgangsvermogen verhoogd worden tot ca +12 dBm. (Drive 2, 4, 6 of 8 mA)
-[Handleiding v3112](/Handleiding3112.md)
+[Handleiding v3112](Handleiding3112.md)
 
 __[Versie 085 CLK1 dec.zip : ](/SourceCode/Meetzender_0_85_CLK1_dec.zip)__(2018)
 
