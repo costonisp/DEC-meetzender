@@ -9,6 +9,7 @@ __[SourceCode folder-view](/SourceCode)__
 
 
 __[**Versie 3112.zip** : ](/SourceCode/Meetzender_v3112.zip)__ (december 2019)
+
    [Handleiding v3112](Handleiding3112.txt)
     Deze versie ondersteund diverse menu's, waardoor een verhoogd gebruiksgemak.
     Via menu kan een correctiefactor worden ingevoerd waarmee de afwijking van het 
