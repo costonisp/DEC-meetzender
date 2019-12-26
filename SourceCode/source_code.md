@@ -8,7 +8,6 @@ Zorg er wel voor dat een recente versie van de "Etherkit Si5351 by Jason Milldru
 
 
 __[**Versie 3112.zip** : ](SourceCode/Meetzender_v3112.zip)__ (december 2019)
-
     Deze versie ondersteund diverse menu's, waardoor een verhoogd gebruiksgemak.
     Via menu kan een correctiefactor worden ingevoerd waarmee de afwijking van het 
     referentie Xtal op de oscillator module kan worden gecorrigeerd.
