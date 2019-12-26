@@ -4,10 +4,10 @@
 <p>Meeste aktieve bijdragen zijn geleverd door:</p>
 <p></p>
 
- - Arnold PB0AIC:  alle ontwerpen en printontwerpen voor: verzwakker, besturing en oscillator-I2C interface
- - Mart PH0MH: behuizing, draaibankwerkzaamheden voor oscillator behuizing en afscherming van de verzwakker.
- - Arie PA3A: software ontwerp.
- - Costo: software, co-ontwerp besturingsprint, documentatie.
+ - **Arnold PB0AIC:**  alle ontwerpen en printontwerpen voor: verzwakker, besturing en oscillator-I2C interface
+ - **Mart PH0MH:** behuizing, draaibankwerkzaamheden voor oscillator behuizing en afscherming van de verzwakker.
+ - **Arie PA3A:** software ontwerp.
+ - **Coos PA0OOO:** software, co-ontwerp besturingsprint, documentatie.
  
 <hr>
 
