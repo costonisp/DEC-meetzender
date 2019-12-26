@@ -12,7 +12,7 @@ De signaal verbindingen liggen opgesloten tussen een massa vlak en een Vcc vlak,
   |     | 
   |     | 
 [![](besturing_print/DisplayArduinoBrdTN.jpg)](besturing_print/DisplayArduinoBoard.pdf) |**-** | [![](besturing_print/DisplayArduinoTN.jpg)]("besturing_print/DisplayArduino.jpg)
-  **PCB layout** *( inner layers )* |     |   **componenten v/d besturingsprint**
+  **PCB layout** *( inner layers )* |     |   **module's v/d besturingsprint**
   
 **Headers :** voor een full-size Arduino Mega 2560
 
