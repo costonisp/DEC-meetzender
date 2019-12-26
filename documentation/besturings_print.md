@@ -27,8 +27,7 @@ De signaal verbindingen liggen opgesloten tussen een massa vlak en een Vcc vlak,
 
 
 **Schakelaars :**
-<ul>
-    <li> tact-switches:  S6, S7, S8 en S9  met Led's </li>
-    <li> rotary-swiches: SW1 en SW2  met drukschakelaar S1 en S2 </li>
-</ul>
-<hr>
+
+ -  tact-switches:  S6, S7, S8 en S9  met Led's
+ -  rotary-swiches: SW1 en SW2  met drukschakelaar S1 en S2
+
