@@ -25,7 +25,3 @@ Met een semi-rigid RG402 coax-kabel is de oscillator module op de verzwakker mod
 Daardoor kan het signaal niet via I2C, voedings leiding of door een niet volledig hf-dichte coax naar buiten lekken.
 Op deze manier is het mogelijk om het signaal tot -145dBm te verzwakken.
 
-[//]: # (This may be the most platform independent comment)
-[//]: # (see also https://webapps.stackexchange.com/questions/29602/markdown-to-insert-and-display-an-image-on-github-repo)
-
-
