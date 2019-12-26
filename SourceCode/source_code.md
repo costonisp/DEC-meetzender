@@ -1,4 +1,4 @@
-__[SourceCode folder-view](SourceCode)__
+__[SourceCode folder-view](/SourceCode)__
 
     Eenvoudigste is om de (meest recente) zipfile hieronder aan te klikken. 
     De [download] knop staat dan aan de rechter-zijde, naast de [history] knop.
