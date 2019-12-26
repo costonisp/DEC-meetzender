@@ -6,7 +6,7 @@
 [![](Si5351+interface/AdaSi5351BrdTN.jpg)](Si5351+interface/AdaSi5351Brd.pdf) | 
 [![](Si5351+interface/AdaSi5351SchTN.jpg)](Si5351+interface/AdaSi5351Sch.pdf)
 --- | --- | ---
-**Si5351 oscillator board | board layout | schema Si5351 board**
+**Si5351 oscillator board** | board layout | **schema Si5351 board**
   |   | 
 [![](Si5351+interface/I2CisolatorTN.jpg)](Si5351+interface/I2CisolatorTN.jpg) |  [![](Si5351+interface/BidirectionalDualI2CIsolatorBrdTN.jpg)](Si5351+interface/BidirectionalDualI2CIsolatorBrd.pdf) | [![](Si5351+interface/BidirectionalDualI2CIsolatorSchTN.jpg)](Si5351+interface/BidirectionalDualI2CIsolatorSch.pdf)
 **I2C isolator board.  | board layout | schema dual I2C isolator**
