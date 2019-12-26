@@ -5,6 +5,8 @@
 Zorg er wel voor dat een recente versie van de "Etherkit Si5351 by Jason Milldrum"  geinstalleerd is.
 </p>
 <hr>
+__[**Versie 3112.zip :** (december 2019)](SourceCode/Meetzender_v3112.zip)__
+
 <a href="/SourceCode/Meetzender_v3112.zip"><b>Versie 3112.zip : </b></a>(december 2019)
     <p>Deze versie ondersteund diverse menu's, waardoor een verhoogd gebruiksgemak.
     Via menu kan een correctiefactor worden ingevoerd waarmee de afwijking van het 
