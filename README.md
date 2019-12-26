@@ -8,7 +8,7 @@ Meeste aktieve bijdragen zijn geleverd door:
  - **Arie PA3A :** software ontwerp.
  - **Coos PA0OOO :** software, co-ontwerp besturingsprint, documentatie.
  
-<hr>
+
 
 __[Source Code](SourceCode/source_code.md)__
 
