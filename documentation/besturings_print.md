@@ -19,12 +19,12 @@ De signaal verbindingen liggen opgesloten tussen een massa vlak en een Vcc vlak,
 **Header  :** voor een Display LCD2004
 
 **Boxed Headers :**
-<ul>
-  <li> SV1 :  6-polig connector (sda-scl) + voeding voor dual I2C isolator board  </li>
-  <li> SV2 : 10-polig connector + voeding van SPI-bus </li>
-  <li> SV3 : 10-polig data stuursignaal verzwakker print </li>
-  <li> SV4 : 10 polig latch stuursignaal verzwakker print </li>
-</ul>
+
+ -  SV1 :  6-polig connector (sda-scl) + voeding voor dual I2C isolator board
+ -  SV2 : 10-polig connector + voeding van SPI-bus
+ -  SV3 : 10-polig data stuursignaal verzwakker print
+ -  SV4 : 10 polig latch stuursignaal verzwakker print
+
 
 **Schakelaars :**
 <ul>
