@@ -17,4 +17,5 @@
 <p><a href="/documentation/besturings_print.md"><b>Besturings print</b></a></p>
 <p><a href="/documentation/verzwakker_print.md"><b>Verzwakker print</b></a></p>
 <p><a href="/documentation/Si5351%2Binterface.md"><b>Si5351 oscillator + I2C isolator</b></a></p>
-<p></p>
+
+__[Behuizing](/documentation/behuizing.md)__
