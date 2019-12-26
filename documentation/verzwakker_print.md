@@ -6,7 +6,7 @@
 |  | 
 |  |
 
-De verzwakker module bestaat uit 5 identieke deelverzwakkers. Iedere deelverzwakker bestaat uit een <a href="verzwakker_print/DAT-31R5A-PN.pdf">DAT-31R5A-PN</a> digitale stap verzwakkers van Mini Circuits met daarbij behorende stuur logica. Ieder IC met componenten zit op het PCB in een eigen omgeving. Als afscherming dienen twee uitgefreezde messing platen die boven en onder over de PCB gemonteerd worden. Daardoor ontstaan 5 kleine rf-dichte kamertjes. De koppeling tussen de 5 verzwakkers gebeurt met kleine stukjes 50 ohm RG402 kabel.
+De verzwakker module bestaat uit 5 identieke deelverzwakkers. Iedere deelverzwakker bestaat uit een ![](/verzwakker_print/DAT-31R5A-PN.pdf)  digitale stap verzwakkers van Mini Circuits met daarbij behorende stuur logica. Ieder IC met componenten zit op het PCB in een eigen omgeving. Als afscherming dienen twee uitgefreezde messing platen die boven en onder over de PCB gemonteerd worden. Daardoor ontstaan 5 kleine rf-dichte kamertjes. De koppeling tussen de 5 verzwakkers gebeurt met kleine stukjes 50 ohm RG402 kabel.
 
 [![](verzwakker_print/AttenuatorFrontTN.jpg)](verzwakker_print/AttenuatorFront.jpg) |    [![](verzwakker_print/AttenuatorBackTN.jpg)](verzwakker_print/AttenuatorBack.jpg)
 
