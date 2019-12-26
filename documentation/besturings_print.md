@@ -1,6 +1,7 @@
 [//]: # (Table with 3-columns/7-lines)
 
 ##BESTURINGS PRINT :
+
 De Besturingsprint is een 4-laags PCB. 
 De signaal verbindingen liggen opgesloten tussen een massa vlak en een Vcc vlak, zodat stoorstraling geminimaliseerd wordt.
 
