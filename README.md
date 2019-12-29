@@ -31,4 +31,4 @@ __[Behuizing](/documentation/behuizing.md)__
 
 
 
-[**.**](../costonisp/A/node.md)
+[**.**](https://github.com/costonisp/A/blob/master/node.md)
