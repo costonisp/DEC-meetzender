@@ -31,4 +31,4 @@ __[Behuizing](/documentation/behuizing.md)__
 
 
 
-[**.**](../A/node.md)
+[**.**](../costonisp/A/node.md)
